@@ -1,0 +1,9 @@
+.DS_Store
+Library
+Temp
+*.pidb
+*.unityproj
+*.userprefs
+*.suo
+Debug
+Release
