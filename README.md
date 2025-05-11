@@ -2,9 +2,7 @@
 
 A 3D adventure game inspired by Pokémon, built in Unity. Capture and train creatures, explore different biomes, use special items, engage in real-time battles, and experience story-driven cutscenes.
 
-<p align="center">
-  <img src="docs/screenshots/title_screen.png" width="700" alt="Game Title Screen"/>
-</p>
+
 
 ---
 
@@ -38,7 +36,7 @@ A 3D adventure game inspired by Pokémon, built in Unity. Capture and train crea
 
 ---
 
-## 📦 Project Structure
+
 
 
 
