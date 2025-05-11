@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Init/Init.unity
-  - enabled: 1
-    path: Assets/Scenes/Menu/Menu.unity
-  - enabled: 1
     path: Assets/Scenes/GameStart/GameStart.unity
+    guid: 680ed31db2a498f42828fce7fa53e17b
   - enabled: 1
     path: Assets/Scenes/PalletTown/PalletTown.unity
+    guid: 52498ee6529d00e4489bc89c0d1fe4c3
   - enabled: 1
     path: Assets/Scenes/Route01/Route01.unity
+    guid: 67089e83f7022684680c4e42cdd60243
+  m_configObjects: {}
